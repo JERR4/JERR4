@@ -19,6 +19,7 @@
 * ### [Delivery Service 'Doordashers'](https://doordashers.ru)
 * ### [Forum 'Askme'](https://github.com/JERR4/askme_novitski_autumn2024)
 * ### [Parts Storage Service](https://github.com/JERR4/web_frontend)
+* ### [Carp Farm Service](https://github.com/JERR4/Carp-farm)
 
 ## 📝👨‍🎓&nbsp;Education
 

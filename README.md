@@ -27,4 +27,4 @@
 
 ## 🛠👨‍💻&nbsp;Experience
 
-`oct 2024` ➖ `june 2026`&nbsp; WEB dev course ▫️VK Education
+`oct 2024` ➖ `jan 2026`&nbsp; WEB dev course ▫️VK Education
